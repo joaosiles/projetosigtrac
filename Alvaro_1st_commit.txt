@@ -1,6 +1,10 @@
-Meu primeiro commit
 
 Alterando o arquivo no branch alvaro01
 
 
 Provocando mais um conflito no branch alvaro03
+
+
+projetosigtrac@gmail.com
+
+Testando conflito
